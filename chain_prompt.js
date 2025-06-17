@@ -19,6 +19,7 @@ function toKebabCase(str) {
     return result;
 }
 
+
 // Example usages:
 console.log(toKebabCase('camelCaseExample'));         // "camel-case-example"
 console.log(toKebabCase('snake_case_example'));       // "snake-case-example"
